@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a154d38d-4f8a-4950-97bf-e1c9db21244d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="batBot05.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/batBot05.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="59" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
+              <folding>
+                <element signature="n#!!block;n#shouldUseWater#0;n#Bot#0" />
+                <element signature="n#!!block;n#shouldUseDynamite#0;n#Bot#0" />
+                <element signature="n#!!block;n#getProbabilityOfEnemyUsingDynamite#0;n#Bot#0" />
+                <element signature="n#!!block;n#getProbabilityOfEnemyUsingDynamite#1;n#Bot#0" />
+                <element signature="n#!!block;n#getProjectedRollOverScoreFrequency#0;n#Bot#0" />
+                <element signature="e#1949#2165#0" />
+                <element signature="n#!!block;n#getDynamiteRollOverScoreThreshold#0;n#Bot#0" />
+                <element signature="n#!!block;n#getRandomStandardMove#0;n#Bot#0" />
+                <element signature="n#!!block;n#getCurrentStats#0;n#Bot#0" />
+                <element signature="e#2964#3282#0" />
+                <element signature="e#3030#3140#0" />
+                <element signature="e#3161#3271#0" />
+                <element signature="e#3494#4262#0" />
+                <element signature="e#3911#4252#0" />
+                <element signature="e#4099#4232#0" />
+                <element signature="e#4249#4376#0" />
+                <element signature="e#4541#4809#0" />
+                <element signature="n#!!block;n#initMoveCounts#0;n#Bot#0" />
+                <element signature="e#4782#4882#0" />
+                <element signature="n#!!block;n#updateRollOverScoreCount#0;n#Bot#0" />
+                <element signature="n#!!block;n#get_winner#0;n#Bot#0" />
+                <element signature="e#4728#5234#0" />
+                <element signature="e#4760#4866#0" />
+                <element signature="e#4879#4985#0" />
+                <element signature="e#4998#5224#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="analyser.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/analyser.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-333">
+              <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>gamestate</find>
+      <find>catch</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/enemy-bot.js" />
+        <option value="$PROJECT_DIR$/batbot.js" />
+        <option value="$PROJECT_DIR$/batBot.js" />
+        <option value="$PROJECT_DIR$/randomBot.js" />
+        <option value="$PROJECT_DIR$/batBot01.js" />
+        <option value="$PROJECT_DIR$/batBot02.js" />
+        <option value="$PROJECT_DIR$/batBot03.js" />
+        <option value="$PROJECT_DIR$/combinationTester.js" />
+        <option value="$PROJECT_DIR$/dynamiteBot.js" />
+        <option value="$PROJECT_DIR$/drawBot.js" />
+        <option value="$PROJECT_DIR$/batBot04.js" />
+        <option value="$PROJECT_DIR$/getCurrentStats.js" />
+        <option value="$PROJECT_DIR$/LosesToKateBotBot.js" />
+        <option value="$PROJECT_DIR$/batBot05.js" />
+        <option value="$PROJECT_DIR$/analyser.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2177" />
+    <option name="y" value="-1211" />
+    <option name="width" value="1938" />
+    <option name="height" value="1236" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="softwire-dynamite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="softwire-dynamite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="softwire-dynamite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="softwire-dynamite" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.11.2" />
+    <property name="last_opened_file_path" value="$USER_HOME$/node-v8.11.2-win-x64/node.exe" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="node.js.selected.package.tslint" value="" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\YET\WebstormProjects\softwire-dynamite\data" />
+      <recent name="C:\Users\YET\WebstormProjects\softwire-dynamite\data\batbot04" />
+      <recent name="C:\Users\YET\WebstormProjects\softwire-dynamite\game-jsons" />
+      <recent name="C:\Users\manc2280\WebstormProjects\softwire-javascript\Dynamite" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\YET\WebstormProjects\softwire-dynamite" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="C:\Users\manc2280\WebstormProjects\softwire-javascript\Dynamite" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a154d38d-4f8a-4950-97bf-e1c9db21244d" name="Default" comment="" />
+      <created>1528040939270</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528040939270</updated>
+      <workItem from="1528040940570" duration="4087000" />
+      <workItem from="1528065137475" duration="536000" />
+      <workItem from="1531035010416" duration="29000" />
+      <workItem from="1531035284962" duration="21312000" />
+      <workItem from="1531502157182" duration="261000" />
+      <workItem from="1531502436963" duration="1045000" />
+      <workItem from="1531923576133" duration="357000" />
+      <workItem from="1531992790235" duration="15369000" />
+      <workItem from="1532076980954" duration="9741000" />
+    </task>
+    <task id="LOCAL-00001" summary="Remove logging">
+      <created>1531992999525</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1531992999525</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add counts for enemy dynamite and water usage based on rolloverscore">
+      <created>1531995862896</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1531995862896</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Improve testing">
+      <created>1531996978430</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1531996978430</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add possibility of using water">
+      <created>1531998691100</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1531998691100</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Adjust weighting">
+      <created>1531999815550</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1531999815550</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Refactor">
+      <created>1532000252362</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1532000252362</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Refactor">
+      <created>1532002991480</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1532002991480</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Refactor">
+      <created>1532003065104</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1532003065104</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Add data analyzer">
+      <created>1532008154507</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1532008154507</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Rename">
+      <created>1532008279386</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1532008279386</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Add analysis">
+      <created>1532009171400</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1532009171400</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Refactor">
+      <created>1532014869007</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1532014869007</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Add bot">
+      <created>1532081738934</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1532081738934</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Refactor">
+      <created>1532081837475</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1532081837475</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Refactor">
+      <created>1532081892488</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1532081892488</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Add enemy water awareness">
+      <created>1532082606007</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1532082606007</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Add enemy water awareness">
+      <created>1532094405826</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1532094405826</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="52737000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1909" y="-1208" width="1936" height="1176" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.114583336" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32987747" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3072573" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32905984" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32987747" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+    <MESSAGE value="Remove logging" />
+    <MESSAGE value="Add counts for enemy dynamite and water usage based on rolloverscore" />
+    <MESSAGE value="Improve testing" />
+    <MESSAGE value="Add possibility of using water" />
+    <MESSAGE value="Adjust weighting" />
+    <MESSAGE value="Add data analyzer" />
+    <MESSAGE value="Rename" />
+    <MESSAGE value="Add analysis" />
+    <MESSAGE value="Add bot" />
+    <MESSAGE value="Refactor" />
+    <MESSAGE value="Add enemy water awareness" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add enemy water awareness" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/batBot04.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1921">
+          <caret line="113" column="30" selection-start-line="113" selection-start-column="30" selection-end-line="113" selection-end-column="30" />
+          <folding>
+            <element signature="n#!!block;n#shouldUseWater#0;n#Bot#0" />
+            <element signature="n#!!block;n#shouldUseDynamite#0;n#Bot#0" />
+            <element signature="n#!!block;n#getProbabilityOfEnemyUsingDynamite#0;n#Bot#0" />
+            <element signature="n#!!block;n#getProjectedRollOverScoreFrequency#0;n#Bot#0" />
+            <element signature="n#!!block;n#getDynamiteRollOverScoreThreshold#0;n#Bot#0" />
+            <element signature="n#!!block;n#getRandomStandardMove#0;n#Bot#0" />
+            <element signature="n#!!block;n#get_winner#0;n#Bot#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/batBot04.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="56" selection-start-line="28" selection-start-column="56" selection-end-line="28" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/batBot04.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="56" selection-start-line="28" selection-start-column="56" selection-end-line="28" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/batBot04.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1411">
+          <caret line="83" column="62" selection-start-line="83" selection-start-column="62" selection-end-line="83" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/batBot04.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="76" column="82" selection-start-line="76" selection-start-column="69" selection-end-line="76" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/batBot01.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/batBot01.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/batBot01.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="37" column="18" lean-forward="true" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/rockBot (1).js" />
+    <entry file="file://$PROJECT_DIR$/enemy-bot.js" />
+    <entry file="file://$PROJECT_DIR$/dynamite-cli.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="317" column="18" selection-start-line="317" selection-start-column="13" selection-end-line="317" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/batBot01.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="30" column="67" selection-start-line="30" selection-start-column="67" selection-end-line="30" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/batBot02.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="20" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/batBot03.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1802">
+          <caret line="106" column="4" lean-forward="true" selection-start-line="106" selection-start-column="4" selection-end-line="108" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/combinationTester.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drawBot.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" selection-end-column="24" />
+          <folding>
+            <element signature="n#!!block;n#getCurrentStats#0;n#Bot#0" />
+            <element signature="n#!!block;n#getRandomStandardMove#0;n#Bot#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dynamiteBot.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/randomBot.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="65" selection-start-line="8" selection-start-column="65" selection-end-line="8" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snake.py" />
+    <entry file="file://$PROJECT_DIR$/getCurrentStats.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="44" column="9" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LosesToKateBotBot.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/batBot04.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="n#!!block;n#shouldUseWater#0;n#Bot#0" />
+            <element signature="n#!!block;n#shouldUseDynamite#0;n#Bot#0" />
+            <element signature="n#!!block;n#getProbabilityOfEnemyUsingDynamite#0;n#Bot#0" />
+            <element signature="n#!!block;n#getProjectedRollOverScoreFrequency#0;n#Bot#0" />
+            <element signature="n#!!block;n#getDynamiteRollOverScoreThreshold#0;n#Bot#0" />
+            <element signature="n#!!block;n#getRandomStandardMove#0;n#Bot#0" />
+            <element signature="n#!!block;n#get_winner#0;n#Bot#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/batBot005.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="71" column="8" lean-forward="true" selection-start-line="71" selection-start-column="8" selection-end-line="81" selection-end-column="10" />
+          <folding>
+            <element signature="n#!!block;n#shouldUseWater#0;n#Bot#0" />
+            <element signature="n#!!block;n#shouldUseDynamite#0;n#Bot#0" />
+            <element signature="n#!!block;n#getProbabilityOfEnemyUsingDynamite#0;n#Bot#0" />
+            <element signature="n#!!block;n#getProjectedRollOverScoreFrequency#0;n#Bot#0" />
+            <element signature="n#!!block;n#getDynamiteRollOverScoreThreshold#0;n#Bot#0" />
+            <element signature="n#!!block;n#getRandomStandardMove#0;n#Bot#0" />
+            <element signature="n#!!block;n#initMoveCounts#0;n#Bot#0" />
+            <element signature="n#!!block;n#get_winner#0;n#Bot#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/batBot05.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="59" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
+          <folding>
+            <element signature="n#!!block;n#shouldUseWater#0;n#Bot#0" />
+            <element signature="n#!!block;n#shouldUseDynamite#0;n#Bot#0" />
+            <element signature="n#!!block;n#getProbabilityOfEnemyUsingDynamite#0;n#Bot#0" />
+            <element signature="n#!!block;n#getProbabilityOfEnemyUsingDynamite#1;n#Bot#0" />
+            <element signature="n#!!block;n#getProjectedRollOverScoreFrequency#0;n#Bot#0" />
+            <element signature="e#1949#2165#0" />
+            <element signature="n#!!block;n#getDynamiteRollOverScoreThreshold#0;n#Bot#0" />
+            <element signature="n#!!block;n#getRandomStandardMove#0;n#Bot#0" />
+            <element signature="n#!!block;n#getCurrentStats#0;n#Bot#0" />
+            <element signature="e#2964#3282#0" />
+            <element signature="e#3030#3140#0" />
+            <element signature="e#3161#3271#0" />
+            <element signature="e#3494#4262#0" />
+            <element signature="e#3911#4252#0" />
+            <element signature="e#4099#4232#0" />
+            <element signature="e#4249#4376#0" />
+            <element signature="e#4541#4809#0" />
+            <element signature="n#!!block;n#initMoveCounts#0;n#Bot#0" />
+            <element signature="e#4782#4882#0" />
+            <element signature="n#!!block;n#updateRollOverScoreCount#0;n#Bot#0" />
+            <element signature="n#!!block;n#get_winner#0;n#Bot#0" />
+            <element signature="e#4728#5234#0" />
+            <element signature="e#4760#4866#0" />
+            <element signature="e#4879#4985#0" />
+            <element signature="e#4998#5224#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analyser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-333">
+          <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
